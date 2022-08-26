@@ -9,7 +9,7 @@ Trying to start a testcontainer using the image "mongo" or "mongo:latest" succee
 
 After that date, the testcontaienr failed with the following exception at startup:
 
-`exec failed: unable to start container process: exec: "mongo": executable file not found in $PATH: unknown``
+`exec failed: unable to start container process: exec: "mongo": executable file not found in $PATH: unknown`
 
 Here is the relevant part of the stacktrace:
 
