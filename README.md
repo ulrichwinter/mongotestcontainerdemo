@@ -31,3 +31,5 @@ Caused by: org.testcontainers.containers.MongoDBContainer$ReplicaSetInitializati
 
 ```
 
+The issue has already been identified for testcontaienrs-java:
+https://github.com/testcontainers/testcontainers-java/issues/5768
